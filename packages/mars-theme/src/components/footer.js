@@ -19,7 +19,7 @@ const Footer = ({ state }) => {
                 <FooterTop>
                     <FooterLeft>
                         <FooterGetUpdates>
-                            <h3>Get Updates</h3>
+                            <h3>Get Updates test</h3>
                             <HubspotForm
                                 portalId='2550774'
                                 formId='7d1eb285-bffe-456e-83bf-89c1a4af16f7'
