@@ -1,0 +1,193 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.44.1",
+  "hash": "bd51062a516025af3f14",
+  "publicPath": "/static/",
+  "outputPath": "C:\\wamp\\www\\jdc-ftt\\jdc\\build\\static",
+  "assetsByChunkName": {
+    "jdc": "jdc.module.js",
+    "list": "list.module.js"
+  },
+  "assets": [
+    {
+      "name": "fonts/KnockoutHTF68.woff2",
+      "size": 15832,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/Larsseit-Bold.woff2",
+      "size": 28004,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/Larsseit-ExtraBold.woff2",
+      "size": 27380,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/Larsseit.woff2",
+      "size": 28584,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/Sailec-Bold.woff2",
+      "size": 21048,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/Sailec-Regular.woff2",
+      "size": 21432,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/Facebook.svg",
+      "size": 363,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/Instagram.svg",
+      "size": 1183,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/Linkedin.svg",
+      "size": 760,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/Twitter.svg",
+      "size": 886,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/Youtube.svg",
+      "size": 399,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/border.svg",
+      "size": 2131,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/footer-images.png",
+      "size": 12730,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/menu-arrow.svg",
+      "size": 1310,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "jdc.module.js",
+      "size": 25294876,
+      "chunks": [
+        "jdc"
+      ],
+      "chunkNames": [
+        "jdc"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "list.module.js",
+      "size": 47617,
+      "chunks": [
+        "list"
+      ],
+      "chunkNames": [
+        "list"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "jdc": {
+      "chunks": [
+        "jdc"
+      ],
+      "assets": [
+        "jdc.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "jdc": {
+      "chunks": [
+        "jdc"
+      ],
+      "assets": [
+        "jdc.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "list"
+      ],
+      "assets": [
+        "list.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 5,
+      "debug": false
+    }
+  },
+  "children": []
+}
